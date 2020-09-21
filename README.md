@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=shanerobinson&show_icons=true&theme=radical)
 
 <!--
+
+![Shane's Github Stats](https://github-readme-stats.vercel.app/api?username=shanerobinson&show_icons=true&theme=radical)
+
 **shanerobinson/shanerobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
